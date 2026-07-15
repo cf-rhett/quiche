@@ -1,0 +1,44 @@
+quiche/src/tests.rs
+  s_61f2f1383800fa::t_d9de6b3388a133 11944-12010,12127,12133,12156-12157,12226,12280-12291
+quiche/src/lib.rs
+  s_61f2f1383800fa::t_1463bb138a679c 582,664,791-798,1369-1373,2098-2099,2703-2706,3561,4318,7032-7037,7043-7048,7076-7077,7079,7141-7144,8074,8076-8077
+quiche/src/path.rs
+  s_61f2f1383800fa::t_6b2028d73a6555 254-258,914-915,918,921-922
+quiche/src/tls/mod.rs
+  s_61f2f1383800fa::t_f52de950970819 710
+tokio-quiche/src/settings/config.rs
+  s_61f2f1383800fa::t_08b9b9e54ec768 180-182
+quiche/include/quiche.h
+  s_61f2f1383800fa::t_3a40aeaf54a81e 180-187
+quiche/src/ffi.rs
+  s_61f2f1383800fa::t_a0140f814d55dc 225-231
+quiche/src/pmtud.rs
+  s_61f2f1383800fa::t_e5eaf4075363eb 20-22,27-35,69-76,83-88,103,143,165,181,195-197,206,212-226,228,256,263-270,275,287,291,295-301,325,333,339,346,352,357,361,365,369,373,377,381,385,392,395,407-408,422-423,433,445,455,465,476,478,490,492,499,503,506,515,517,525,534,536,540,544,551,553,563,571,575,590,598,602,622,624-626,633,638,643,649,657,662-750,755,771,777
+tokio-quiche/src/settings/quic.rs
+  s_61f2f1383800fa::t_2ffeedd431cae1 200-207,500,506
+  s_f79a6b551e2958::t_f2d8d19269c664 507-514
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "0cf3fd25d2b34a5c36ba468ad221043d12b07451",
+  "prompts": {},
+  "sessions": {
+    "s_61f2f1383800fa": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_0be107403ffesPM6z6meWfB2pO",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Rhett Griggs <rhett@cloudflare.com>"
+    },
+    "s_f79a6b551e2958": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_09910b552ffeBJSHBEEqsSK23b",
+        "model": "gpt-5.6-terra"
+      },
+      "human_author": "Rhett Griggs <rhett@cloudflare.com>"
+    }
+  }
+}
