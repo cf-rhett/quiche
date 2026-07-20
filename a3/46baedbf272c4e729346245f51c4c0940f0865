@@ -1,0 +1,20 @@
+tokio-quiche/src/quic/router/mod.rs
+  s_e341a762aab4aa::t_9ea4f5dfe8dee5 647-651,685,711,823
+  s_e341a762aab4aa::t_45c326395ee657 643
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "a346baedbf272c4e729346245f51c4c0940f0865",
+  "prompts": {},
+  "sessions": {
+    "s_e341a762aab4aa": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_07ee7eb60ffep1qeanJeSWG5Wq",
+        "model": "gpt-5.6-luna"
+      },
+      "human_author": "Logan Praneis <lpraneis@cloudflare.com>"
+    }
+  }
+}
