@@ -1,0 +1,19 @@
+quiche/src/recovery/congestion/cwnd_max.rs
+  s_e341a762aab4aa::t_8420cda751ddaa 1-112
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "00977c32c4f68555b791671ae358d699f82efa49",
+  "prompts": {},
+  "sessions": {
+    "s_e341a762aab4aa": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_07ee7eb60ffep1qeanJeSWG5Wq",
+        "model": "gpt-5.6-luna"
+      },
+      "human_author": "Logan Praneis <lpraneis@cloudflare.com>"
+    }
+  }
+}

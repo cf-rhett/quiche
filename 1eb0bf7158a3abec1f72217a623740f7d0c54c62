@@ -1,0 +1,19 @@
+quiche/src/lib.rs
+  s_e341a762aab4aa::t_e3180804e79030 8159
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "1eb0bf7158a3abec1f72217a623740f7d0c54c62",
+  "prompts": {},
+  "sessions": {
+    "s_e341a762aab4aa": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_07ee7eb60ffep1qeanJeSWG5Wq",
+        "model": "gpt-5.6-luna"
+      },
+      "human_author": "Logan Praneis <lpraneis@cloudflare.com>"
+    }
+  }
+}
