@@ -1,0 +1,19 @@
+quiche/src/pmtud.rs
+  s_23117f3746d59d::t_a0e660ee3477ae 41-54,71-73,146-147,162,165-168,191-204,213-216,220-222,239-244,253,311,321-323,337,548,571,573,579,800-832
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "4ec612d15fd3787180d53247bf67af7d34a91394",
+  "prompts": {},
+  "sessions": {
+    "s_23117f3746d59d": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_f5b8c098effeGw8PQqYCff8IGr",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Rhett Griggs <rhett@cloudflare.com>"
+    }
+  }
+}
