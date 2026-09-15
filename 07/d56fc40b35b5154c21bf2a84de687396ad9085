@@ -19,6 +19,7 @@ quiche/src/pmtud.rs
   s_61f2f1383800fa::t_b2534d690ffb48 251
 quiche/src/lib.rs
   s_61f2f1383800fa::t_1463bb138a679c 582,664,801-808,1379-1383,2107-2108,2712-2715,3570,4326,7061-7066,7072-7077,7105-7106,7108,7170-7173
+  s_60ea1601538846::t_3f4ad4eca64c21 8107,8109-8110
 quiche/src/ffi.rs
   s_61f2f1383800fa::t_a0140f814d55dc 238-244
 tokio-quiche/src/settings/config.rs
@@ -39,6 +40,14 @@ quiche/src/tls/mod.rs
         "model": "gpt-5.6-sol"
       },
       "human_author": null
+    },
+    "s_60ea1601538846": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_f5af0555effenNvq6AxBSVc5XG",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Rhett Griggs <rhett@cloudflare.com>"
     },
     "s_61f2f1383800fa": {
       "agent_id": {
