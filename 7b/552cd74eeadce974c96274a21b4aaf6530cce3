@@ -1,0 +1,77 @@
+quiche/src/path.rs
+  s_61f2f1383800fa::t_6b2028d73a6555 254-258,914-915,918,921-922
+quiche/src/lib.rs
+  s_60ea1601538846::t_3f4ad4eca64c21 8107,8109-8110
+  s_61f2f1383800fa::t_1463bb138a679c 582,664,801-808,1379-1383,2107-2108,2712-2715,3570,4326,7061-7066,7072-7077,7105-7106,7108,7170-7173
+quiche/src/ffi.rs
+  s_61f2f1383800fa::t_a0140f814d55dc 238-244
+quiche/include/quiche.h
+  s_61f2f1383800fa::t_3a40aeaf54a81e 183-190
+quiche/src/pmtud.rs
+  s_707962310c162c::t_ac365c9aadb92e 41-54,147,165-168,191-193,195,198-202,213-216,220-222,239,241-242,315
+  s_707962310c162c::t_9856f79a0c75d3 71-73,146,162,196,240,243,303,313-314,329,540,563,565,571
+  s_707962310c162c::t_dc61d5e9d0f85c 249
+  s_5a464d30e98311::t_f2bef4ce206b20 797-798,819-820
+  s_707962310c162c::t_ba74c5038afbd6 204
+  s_61f2f1383800fa::t_b2534d690ffb48 251
+  s_5a464d30e98311::t_3e574eb591ef98 794-796,799-818,821-826
+  s_61f2f1383800fa::t_e5eaf4075363eb 20-22,27-35,84-91,98-103,118,159,184,217,234-236,246,250,252-264,268,296,304-310,318,330,334,338-344,368,376,382,389,395,400,404,408,412,416,420,424,428,435,438,450-451,465-466,476,488,498,508,519,521,533,535,542,546,549,558,560,568,577,579,583,587,594,596,606,614,618,633,641,645,667,669-671,678,683,688,694,702,707-793,827-828,833,849,855
+  s_707962310c162c::t_d743f7130e5c4e 194,197,203,244
+quiche/src/tls/mod.rs
+  s_61f2f1383800fa::t_f52de950970819 726
+quiche/src/tests.rs
+  s_61f2f1383800fa::t_d9de6b3388a133 12131-12197,12314,12320,12343-12344,12413,12467-12478
+tokio-quiche/src/settings/quic.rs
+  s_61f2f1383800fa::t_2ffeedd431cae1 200-207,518,524
+  s_f79a6b551e2958::t_f2d8d19269c664 525-532
+tokio-quiche/src/settings/config.rs
+  s_61f2f1383800fa::t_08b9b9e54ec768 188-190
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "7b552cd74eeadce974c96274a21b4aaf6530cce3",
+  "prompts": {},
+  "sessions": {
+    "s_5a464d30e98311": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_f5b3fce1fffemYmIg6t39UphsG",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": null
+    },
+    "s_60ea1601538846": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_f5af0555effenNvq6AxBSVc5XG",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Rhett Griggs <rhett@cloudflare.com>"
+    },
+    "s_61f2f1383800fa": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_0be107403ffesPM6z6meWfB2pO",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Rhett Griggs <rhett@cloudflare.com>"
+    },
+    "s_707962310c162c": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_f5b367747ffeNO25Q89dQfC1sG",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": null
+    },
+    "s_f79a6b551e2958": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_09910b552ffeBJSHBEEqsSK23b",
+        "model": "gpt-5.6-terra"
+      },
+      "human_author": "Rhett Griggs <rhett@cloudflare.com>"
+    }
+  }
+}
