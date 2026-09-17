@@ -1,0 +1,21 @@
+quiche/src/recovery/mod.rs
+  s_23e9bf8dfa03ac::t_c75b151f6efb93 1258-1261,1462-1465,1586-1589
+  s_23e9bf8dfa03ac::t_526bb1805e9660 976-978,981,1270-1272,1275,1474-1476,1479
+  s_23e9bf8dfa03ac::t_14370187edfcf4 979-980,982-983,1273-1274,1276-1277,1477-1478,1480-1481
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "5f26ffa5ac36935e61d6ff8dba11bf268eb89e3f",
+  "prompts": {},
+  "sessions": {
+    "s_23e9bf8dfa03ac": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_f56dfb949ffe0RfRVpjxEztCPU",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Rhett Griggs <rhett@cloudflare.com>"
+    }
+  }
+}

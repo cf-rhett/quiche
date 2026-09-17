@@ -1,0 +1,46 @@
+tokio-quiche/Cargo.toml
+  s_23e9bf8dfa03ac::t_ede90457d9b4a3 18
+.github/workflows/stable.yml
+  s_23e9bf8dfa03ac::t_ede90457d9b4a3 10
+quiche/src/recovery/congestion/recovery.rs
+  s_23e9bf8dfa03ac::t_ede90457d9b4a3 892-894,1162-1172
+  s_23e9bf8dfa03ac::t_5a16207a05da2c 1173
+quiche/Cargo.toml
+  s_23e9bf8dfa03ac::t_4840ff96ee708f 50-51
+  s_23e9bf8dfa03ac::t_744122e11221aa 91-96
+  s_23e9bf8dfa03ac::t_ede90457d9b4a3 49,52-54
+quiche/src/recovery/AGENTS.md
+  s_23e9bf8dfa03ac::t_ede90457d9b4a3 77-80
+quiche/src/lib.rs
+  s_23e9bf8dfa03ac::t_744122e11221aa 375-377
+.github/workflows/nightly.yml
+  s_23e9bf8dfa03ac::t_ede90457d9b4a3 10
+quiche/src/recovery/mod.rs
+  s_23e9bf8dfa03ac::t_4840ff96ee708f 382-386
+  s_23e9bf8dfa03ac::t_ede90457d9b4a3 387-388,393,409-411,896-951,954,956,958-959,961-973,975-993
+  s_23e9bf8dfa03ac::t_860e09f5f8ba44 994-995
+  s_23e9bf8dfa03ac::t_744122e11221aa 389-392,952-953
+  s_23e9bf8dfa03ac::t_6163c8d75d252c 974
+  s_23e9bf8dfa03ac::t_f3a985b46ccdb5 955,957,960
+quiche/src/recovery/congestion/mod.rs
+  s_23e9bf8dfa03ac::t_ede90457d9b4a3 286-293,295-303,314-316
+  s_23e9bf8dfa03ac::t_4840ff96ee708f 294
+tokio-quiche/src/lib.rs
+  s_23e9bf8dfa03ac::t_744122e11221aa 96-97
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "32bb3f4256a1fd56c1c914e0eac19788a75b73a3",
+  "prompts": {},
+  "sessions": {
+    "s_23e9bf8dfa03ac": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_f56dfb949ffe0RfRVpjxEztCPU",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Rhett Griggs <rhett@cloudflare.com>"
+    }
+  }
+}
