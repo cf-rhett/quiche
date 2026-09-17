@@ -1,0 +1,63 @@
+tokio-quiche/tests/integration_tests/connection_close.rs
+  s_1f0e197ecf4096::t_baec04a628027e 48-51,54,99-102,105
+.github/workflows/stable.yml
+  s_23e9bf8dfa03ac::t_ede90457d9b4a3 10
+quiche/Cargo.toml
+  s_23e9bf8dfa03ac::t_ede90457d9b4a3 49,52-54
+  s_23e9bf8dfa03ac::t_4840ff96ee708f 50-51
+  s_23e9bf8dfa03ac::t_744122e11221aa 91-96
+quiche/src/lib.rs
+  s_23e9bf8dfa03ac::t_744122e11221aa 375-377
+tokio-quiche/Cargo.toml
+  s_23e9bf8dfa03ac::t_ede90457d9b4a3 18
+quiche/src/recovery/congestion/recovery.rs
+  s_23e9bf8dfa03ac::t_5a16207a05da2c 1174
+  s_23e9bf8dfa03ac::t_ede90457d9b4a3 892-894,1163-1173
+quiche/src/recovery/congestion/mod.rs
+  s_23e9bf8dfa03ac::t_ede90457d9b4a3 286-293,295-303,314-316
+  s_23e9bf8dfa03ac::t_4840ff96ee708f 294
+tokio-quiche/src/lib.rs
+  s_23e9bf8dfa03ac::t_744122e11221aa 96-97
+quiche/src/recovery/AGENTS.md
+  s_23e9bf8dfa03ac::t_ede90457d9b4a3 77-80
+.github/workflows/nightly.yml
+  s_23e9bf8dfa03ac::t_ede90457d9b4a3 10
+tokio-quiche/src/http3/settings.rs
+  s_1f0e197ecf4096::t_baec04a628027e 44
+quiche/src/recovery/mod.rs
+  s_23e9bf8dfa03ac::t_860e09f5f8ba44 1049-1050
+  s_23e9bf8dfa03ac::t_ede90457d9b4a3 388-389,394,410-412,972-1027,1030,1032-1048
+  s_23e9bf8dfa03ac::t_14370187edfcf4 1055-1056,1058-1059,1349-1350,1352-1353,1553-1554,1556-1557
+  s_23e9bf8dfa03ac::t_526bb1805e9660 1052-1054,1057,1346-1348,1351,1550-1552,1555
+  s_23e9bf8dfa03ac::t_4840ff96ee708f 383-387
+  s_23e9bf8dfa03ac::t_c75b151f6efb93 1334-1337,1538-1541,1662-1665
+  s_23e9bf8dfa03ac::t_744122e11221aa 390-393,1028-1029
+  s_1f0e197ecf4096::t_94b8de35adcc93 374
+  s_23e9bf8dfa03ac::t_f3a985b46ccdb5 1031
+tokio-quiche/tests/integration_tests/timeouts.rs
+  s_1f0e197ecf4096::t_baec04a628027e 105-107,110,236-238,241,296-298,301
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "24fa2845ee78f564a29e02f4e745084ce1dccd10",
+  "prompts": {},
+  "sessions": {
+    "s_1f0e197ecf4096": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_f4fceadadffe3U6WJcEYjtKj6F",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": null
+    },
+    "s_23e9bf8dfa03ac": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_f56dfb949ffe0RfRVpjxEztCPU",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Rhett Griggs <rhett@cloudflare.com>"
+    }
+  }
+}
